@@ -9,5 +9,5 @@
 - [2022년도 연주회 활동][LALA_2021]
 <hr>
 
-[LALA_2021]:  https://github.com/bigpycraft/bigpycraft/lala_phil_2021    "Go LALA_2021"
-[LALA_2022]:  https://github.com/bigpycraft/bigpycraft/lala_phil_2022    "Go LALA_2022"
+[LALA_2021]:  https://github.com/bigpycraft/lala_phil_2021    "Go LALA_2021"
+[LALA_2022]:  https://github.com/bigpycraft/lala_phil_2022    "Go LALA_2022"
