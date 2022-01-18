@@ -6,7 +6,7 @@
 ## 라라 필하모닉 오케스트라 2021 ~ 2022
 
 - [2021년도 연주회 활동][LALA_2021]
-- [2022년도 연주회 활동][LALA_2021]
+- [2022년도 연주회 활동][LALA_2022]
 <hr>
 
 [LALA_2021]:  https://github.com/bigpycraft/lala_phil_2021    "Go LALA_2021"
